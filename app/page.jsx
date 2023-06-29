@@ -50,7 +50,7 @@ export default function Home() {
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               Freelancer providing services for programming and design content
-              needs. Join me down below and let's get cracking!
+              needs. Join me down below and let us get cracking!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
             <AiFillGithub href='https://github.com/mudin9838/' target='_blank' />
@@ -69,7 +69,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a full-stack .Net and
-              Web developer, I've developed different web-based app for governmental & charity
+              Web developer, I have developed different web-based app for governmental & charity
               <span className="text-teal-500"> Organization </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
@@ -100,7 +100,7 @@ export default function Home() {
                 Code your dream project
               </h3>
               <p className="py-2">
-                Do you have an idea for your next great web-based app? Let's make it a
+                Do you have an idea for your next great web-based app? Let us make it a
                 reality.
               </p>
               <h4 className="py-4 text-teal-600">Some of Coding language & 3rd party tools I use</h4>
@@ -117,11 +117,8 @@ export default function Home() {
                 Are you interested in feedback for your current project? I can
                 give you tips and tricks to level it up.
               </p>
-              <h4 className="py-4 text-teal-600">Contact me m</h4>
-              {/* <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">Figma</p>
-              <p className="text-gray-800 py-1">Indesign</p> */}
+              <h4 className="py-4 text-teal-600">Contact me</h4>
+              
             </div>
           </div>
         </section>
@@ -130,7 +127,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a full-stack .Net and
-              Web developer, I've done work for
+              Web developer, I have done work for
               <span className="text-teal-500"> Governmental & Charity Organization </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
